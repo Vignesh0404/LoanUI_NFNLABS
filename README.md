@@ -77,9 +77,10 @@
   <li><Strong>BLoC (Business Logic Component)</Strong> is an architectural pattern based on separate components (BLoC components). BLoC components contain only business logic, which can easily be shared between different Dart apps. </li>
 <li>To know more, click here <strong><a href="https://bloclibrary.dev/#/">bloc</a></strong></li>
 </ul></li></ul></details></li></ul>
-<summary>API KEY</b></summary>
-  <li><Strong>Google Cloud Patform</Strong> is not a free source, the pricing is subjected to the MAP API Requests. Please change the API Key in the android manifest file. I have added a dummy key for reference </li>
-<li>To know more, click here <strong><a href="https://bloclibrary.dev/#/">bloc</a></strong></li>
+<ul><li><details>
+<summary>Google Cloud Map API</b></summary>
+ <li><Strong>Google Cloud Patform</Strong> is not a free source, the pricing is subjected to the MAP API Requests. Please change the API Key in the android manifest file. I have added a dummy key for reference </li>
+
 </ul></li></ul></details></li></ul>
   
 - Flutter Compiler (2.0 Recommended)
