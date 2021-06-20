@@ -1,4 +1,3 @@
-## INTERNSHIP TASK 2
 <h1 align="center">
   <img src="https://rajeshpadman.com/wp-content/uploads/2020/09/nfn-labs-logo.png">
 </h1>
